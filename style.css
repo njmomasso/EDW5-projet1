@@ -9,6 +9,11 @@ body {
     font-size: 25px;
 }
 
+ul {
+    display: flex;
+    gap: 40px;
+}
+
 li {
     list-style-type: none;
 }
@@ -19,3 +24,4 @@ a:hover,
 a:active {
     color: pink;
 }
+
