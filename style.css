@@ -2,9 +2,20 @@ body {
     background-color: aquamarine;
     color: pink;
     font-family: monospace;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 .copyright {
     font-size: 25px;
+}
+
+li {
+    list-style-type: none;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+    color: pink;
 }
